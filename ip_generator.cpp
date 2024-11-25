@@ -1,4 +1,4 @@
-# ip_generator.cpp
+// ip_generator.cpp
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
